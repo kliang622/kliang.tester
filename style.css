@@ -3,4 +3,10 @@ h1{
 	font-size: 25px;
 	font-style: italic;
 	font-weight: 100;
+	text-align: center;
+	text-decoration: none;
+	text-indent: 20px;
+	text-transform: uppercase;
+	color:red;
+	letter-spacing: 10px;
 }
