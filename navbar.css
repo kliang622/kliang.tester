@@ -1,0 +1,21 @@
+li{
+    list-style-type: none; 
+    display: inline;
+
+}
+a{
+	text-decoration: none;
+}
+nav{
+	width: 10vw;
+	background-color: #DABA73
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+}
